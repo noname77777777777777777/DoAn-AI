@@ -1,0 +1,5 @@
+Ngiên cứu một số thuật toán gom cụm dữ liệu và ứng dụng 
+_Bài toán gom cụm dữ liệu 
+_ Tìm hiểu một số thuật toán gom cụm 
+_Úng dụng bài toán gom cụm dữ liệu vào một ứng dụng cụ thể 
+_Tiềm hiểu một số công cụ giải toán gom cụm
